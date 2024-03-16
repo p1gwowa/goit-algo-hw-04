@@ -1,0 +1,5 @@
+Alex Korp,3000
+Nikita Borisenko,2000
+Sitarama Raju,1000
+Jhon Smith,5000
+Jane Doe,1000
